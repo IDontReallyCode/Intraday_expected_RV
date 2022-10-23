@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T13:47:33.885Z" agent="5.0 (Windows)" etag="qHoq0HNWrjgI3gm--a5t" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T13:48:56.047Z" agent="5.0 (Windows)" etag="ce5lmMyx9nxgAKAS__20" version="20.4.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1896" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1896" dy="2161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,6 +221,23 @@
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-187" value="&#xa;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;combined5min&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.to_pickle(&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;z_combined5min.pkl&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="780" y="120" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-190" value="sumary_statistics.py" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=none;fontColor=#000000;fillColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="-70" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-191" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png;labelBorderColor=none;fontSize=20;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" source="BQh667uKtFPZFXDKLswa-198" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-198" value="rolling window" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="-50" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-205" value="To be completed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;labelBorderColor=none;fontSize=20;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="80" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
