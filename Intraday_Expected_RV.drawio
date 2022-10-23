@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T20:53:08.210Z" agent="5.0 (Windows)" etag="2YlbN2jXhZGntNsQ37Az" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T13:47:33.885Z" agent="5.0 (Windows)" etag="qHoq0HNWrjgI3gm--a5t" version="20.4.1" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="1896" dy="992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -10,14 +10,8 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-178" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png;labelBorderColor=none;fontSize=20;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1640" y="310" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-175" value="prepare.py" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=none;fontColor=#000000;fillColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="790" y="350" width="180" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-176" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png;labelBorderColor=none;fontSize=20;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="960" y="320" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-173" value="resample.py" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=default;labelBorderColor=none;fontColor=#000000;fillColor=default;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="350" y="30" width="180" height="660" as="geometry" />
+          <mxGeometry x="350" y="30" width="620" height="850" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-151" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;taskMarker=abstract;isLoopStandard=1;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1240" y="350" width="400" height="330" as="geometry" />
@@ -48,6 +42,9 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-102" target="BQh667uKtFPZFXDKLswa-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-184" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-102" target="BQh667uKtFPZFXDKLswa-179">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-102" value="resample to 1 min" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="120" width="160" height="40" as="geometry" />
         </mxCell>
@@ -72,7 +69,10 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-111" value="&lt;div&gt;resample to 5 min&lt;/div&gt;&lt;div&gt;rename field&lt;br&gt;&lt;/div&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-113" value="data_5min" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="BQh667uKtFPZFXDKLswa-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-113" target="BQh667uKtFPZFXDKLswa-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-113" value="data5min" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-115" value="Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-120" target="BQh667uKtFPZFXDKLswa-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-120" value="data_1day" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="BQh667uKtFPZFXDKLswa-120" value="data1day" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="560" y="630" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-121" value="Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="1">
@@ -129,7 +129,7 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-134" value="interpolate daily to 5min" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="800" y="640" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-136" target="BQh667uKtFPZFXDKLswa-137">
+        <mxCell id="BQh667uKtFPZFXDKLswa-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-136" target="BQh667uKtFPZFXDKLswa-187">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-136" value="combine" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
@@ -138,11 +138,11 @@
         <mxCell id="BQh667uKtFPZFXDKLswa-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-137" target="BQh667uKtFPZFXDKLswa-152">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BQh667uKtFPZFXDKLswa-137" value="data_5min" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="350" width="180" height="60" as="geometry" />
+        <mxCell id="BQh667uKtFPZFXDKLswa-137" value="combined5min" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="991" y="350" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-138" value="Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="410" width="140" height="210" as="geometry" />
+          <mxGeometry x="991" y="410" width="140" height="210" as="geometry" />
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-139" value="datetime_stamp_UTC" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="BQh667uKtFPZFXDKLswa-138">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -200,6 +200,27 @@
         </mxCell>
         <mxCell id="BQh667uKtFPZFXDKLswa-174" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-python-128.png;labelBorderColor=none;fontSize=20;fontColor=#000000;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-179" value="data1min" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-180" value="Fields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="170" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-181" value="datetime_stamp_UTC" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="BQh667uKtFPZFXDKLswa-180">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-182" value="close" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="BQh667uKtFPZFXDKLswa-180">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-185" value="lr2" style="text;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="BQh667uKtFPZFXDKLswa-180">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontColor=#000000;" edge="1" parent="1" source="BQh667uKtFPZFXDKLswa-187" target="BQh667uKtFPZFXDKLswa-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BQh667uKtFPZFXDKLswa-187" value="&#xa;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #9cdcfe;&quot;&gt;combined5min&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;.to_pickle(&lt;/span&gt;&lt;span style=&quot;color: #ce9178;&quot;&gt;&quot;z_combined5min.pkl&quot;&lt;/span&gt;&lt;span style=&quot;color: #d4d4d4;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="780" y="120" width="400" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
